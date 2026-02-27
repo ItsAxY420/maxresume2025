@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: rgb(66, 66, 66);
-    color: rgb(42, 2, 107);
+    background-color: white;
+    color: dodgerblue;
     text-align: center;
 }
 
 header {
-    background-color: rgb(66, 66, 66);
-    color: rgb(42, 2, 107);
+    background-color: white;
+    color: dodgerblue;
     padding: 20px;
     font-size: 24px;
 }
@@ -35,8 +35,8 @@ header {
 .links a {
     text-decoration: none;
     font-size: 20px;
-    color: rgb(42, 2, 107);
-    border: 2px solid rgb(42, 2, 107);
+    color: dodgerblue;
+    border: 2px solid dodgerblue;
     padding: 10px 20px;
     display: inline-block;
     border-radius: 5px;
@@ -44,7 +44,6 @@ header {
 }
 
 .links a:hover {
-    background-color: rgb(255, 255, 255);
-    color: rgb(66, 66, 66);
+    background-color: dodgerblue;
+    color: white;
 }
-
